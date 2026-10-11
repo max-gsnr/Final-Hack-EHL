@@ -65,3 +65,7 @@ the things i circled are bloat text and should be removed, also you cant current
 ---
 
 i also want it to be possible to get a summary / storyline from the product project based on timelines you can choose, as default timelines i want it to be "Last Week" "Last Month" "Last Quarter" "Onboarding" where the last week would be the past monday-friday cycle, last month is the last calender month, last quarter is the last calender quarter, and onboarding is from project start full context until today
+
+---
+
+i want you to push this to main and resolve any merge conflicts if they exist
