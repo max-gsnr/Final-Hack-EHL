@@ -1,0 +1,8 @@
+# Files mentioned by the user:
+
+## final pipeline + focus audio.txt: c:\Users\iyert\Downloads\final pipeline + focus audio.txt
+
+## megaplan.txt: c:\Users\iyert\Downloads\megaplan.txt
+
+## My request for Codex:
+read only these two txt files and give a possible solution to implement this and ask any potential gaps that possibly still exist and tell how it can be deivded into task that can be done simouelteosuly without conflicts
