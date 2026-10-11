@@ -1,0 +1,35 @@
+{
+  "cli_version": "0.11.4",
+  "checkpoint_id": "01M4N1G7TKJE5E2AR1Z8WA9G4E",
+  "strategy": "manual-commit",
+  "branch": "main",
+  "checkpoints_count": 7,
+  "files_touched": [
+    "data/project-diary-demo.json",
+    "demo-data/PROJECT_DIARY_DEMO.md",
+    "public/app.js",
+    "public/index.html",
+    "server.mjs",
+    "src/diary-summary.mjs",
+    "src/openai.mjs",
+    "test/diary-summary.test.mjs",
+    "test/project-diary.test.mjs"
+  ],
+  "sessions": [
+    {
+      "metadata": "/0/metadata.json",
+      "transcript": "/0/full.jsonl",
+      "compact_transcript": "/0/transcript.jsonl",
+      "content_hash": "/0/content_hash.txt",
+      "prompt": "/0/prompt.txt"
+    }
+  ],
+  "token_usage": {
+    "input_tokens": 216894,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 12017408,
+    "output_tokens": 27470,
+    "api_call_count": 98,
+    "subagent_tokens_complete": true
+  }
+}

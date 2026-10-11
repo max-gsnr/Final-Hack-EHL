@@ -1,0 +1,123 @@
+{
+  "cli_version": "0.11.4",
+  "checkpoint_id": "01M4N1G7TKJE5E2AR1Z8WA9G4E",
+  "session_id": "01a1289d-9b0e-71b2-b579-171eec089809",
+  "strategy": "manual-commit",
+  "created_at": "2026-10-11T08:33:07.99063Z",
+  "branch": "main",
+  "checkpoints_count": 7,
+  "save_step_count": 6,
+  "files_touched": [
+    "data/project-diary-demo.json",
+    "demo-data/PROJECT_DIARY_DEMO.md",
+    "public/app.js",
+    "public/index.html",
+    "server.mjs",
+    "src/diary-summary.mjs",
+    "src/openai.mjs",
+    "test/diary-summary.test.mjs",
+    "test/project-diary.test.mjs"
+  ],
+  "agent": "Codex",
+  "model": "gpt-6.1-sol",
+  "turn_id": "da40b63205f2",
+  "compact_transcript_start": 0,
+  "token_usage": {
+    "input_tokens": 216894,
+    "cache_creation_tokens": 0,
+    "cache_read_tokens": 12017408,
+    "output_tokens": 27470,
+    "api_call_count": 98,
+    "subagent_tokens_complete": true
+  },
+  "session_metrics": {
+    "turn_count": 21
+  },
+  "initial_attribution": {
+    "calculated_at": "2026-10-11T08:33:07.950597Z",
+    "agent_lines": 1494,
+    "agent_removed": 14,
+    "human_added": 0,
+    "human_modified": 0,
+    "human_removed": 0,
+    "total_committed": 1494,
+    "total_lines_changed": 1508,
+    "agent_percentage": 100,
+    "metric_version": 2
+  },
+  "prompt_attributions": [
+    {
+      "checkpoint_number": 2,
+      "user_lines_added": 121,
+      "user_lines_removed": 0,
+      "agent_lines_added": 0,
+      "agent_lines_removed": 0,
+      "user_added_per_file": {
+        ".claude/settings.local.json": 7,
+        "PITCH_SCRIPT.md": 65,
+        "PITCH_SCRIPT_3MIN.md": 49
+      }
+    },
+    {
+      "checkpoint_number": 3,
+      "user_lines_added": 122,
+      "user_lines_removed": 0,
+      "agent_lines_added": 1410,
+      "agent_lines_removed": 4,
+      "user_added_per_file": {
+        ".claude/settings.local.json": 7,
+        "PITCH_SCRIPT.md": 65,
+        "PITCH_SCRIPT_3MIN.md": 49,
+        "data/decision-events.ndjson": 1
+      }
+    },
+    {
+      "checkpoint_number": 4,
+      "user_lines_added": 121,
+      "user_lines_removed": 0,
+      "agent_lines_added": 1411,
+      "agent_lines_removed": 4,
+      "user_added_per_file": {
+        ".claude/settings.local.json": 7,
+        "PITCH_SCRIPT.md": 65,
+        "PITCH_SCRIPT_3MIN.md": 49
+      }
+    },
+    {
+      "checkpoint_number": 5,
+      "user_lines_added": 121,
+      "user_lines_removed": 0,
+      "agent_lines_added": 1417,
+      "agent_lines_removed": 4,
+      "user_added_per_file": {
+        ".claude/settings.local.json": 7,
+        "PITCH_SCRIPT.md": 65,
+        "PITCH_SCRIPT_3MIN.md": 49
+      }
+    },
+    {
+      "checkpoint_number": 6,
+      "user_lines_added": 121,
+      "user_lines_removed": 0,
+      "agent_lines_added": 1464,
+      "agent_lines_removed": 6,
+      "user_added_per_file": {
+        ".claude/settings.local.json": 7,
+        "PITCH_SCRIPT.md": 65,
+        "PITCH_SCRIPT_3MIN.md": 49
+      }
+    },
+    {
+      "checkpoint_number": 7,
+      "user_lines_added": 121,
+      "user_lines_removed": 0,
+      "agent_lines_added": 1470,
+      "agent_lines_removed": 8,
+      "user_added_per_file": {
+        ".claude/settings.local.json": 7,
+        "PITCH_SCRIPT.md": 65,
+        "PITCH_SCRIPT_3MIN.md": 49
+      }
+    }
+  ]
+}
